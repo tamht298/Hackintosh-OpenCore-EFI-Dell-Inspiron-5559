@@ -1,6 +1,6 @@
 # Hackintosh Dell Ins 5559:
 ## Result
-![Image of result installing](https://imgur.com/a/mrrmlOZ)
+![Image of result installing](https://imgur.com/j8s5yHN)
 ## Information:
 * Laptop Dell Ins 5559
 * macOS Catatlina 10.15.6

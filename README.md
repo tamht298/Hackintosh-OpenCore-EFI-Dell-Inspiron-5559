@@ -1,0 +1,1 @@
+# -Hackintosh-OpenCore-Catalina-Dell-Inspiron-5559

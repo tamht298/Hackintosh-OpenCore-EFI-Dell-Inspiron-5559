@@ -19,7 +19,7 @@
 
 * Scrolling on trackpad & mouse: if you can't setup scrolling direction as windows os (trackpad: natural, mouse: non-natrual). 
 Following steps: 
-1. Download [Mos][https://mos.caldis.me/]
+1. Download [Mos][Mos]
 2. Setup like following picture
 ![setup Mos](https://i.imgur.com/XXWptNw.png)
 
@@ -28,3 +28,4 @@ P/s: If you have any questions about this repo, please create new issuses.
 <!-- Markdown link & img dfn's -->
 [guideline]: https://dortania.github.io/OpenCore-Install-Guide/
 [OpenIntelWireless's Repo]: https://github.com/OpenIntelWireless/HeliPort/releases
+[Mos]: https://mos.caldis.me

@@ -13,7 +13,7 @@
 3. Ok & install now
 
 ### Fix some kext:
-* Wifi: download the lastest Heliport release at [OpenIntelWireless's Repo][OpenIntelWireless's Repo]. Install Heliport.dmg and open, then goto System Preferences -> Users & Groups -> select Current User and add Heliport to Login Items.
+* Wifi: download the lastest Heliport release at [OpenIntelWireless's Repo][OpenIntelWireless's Repo]. Install Heliport.dmg and open, then goto **System Preferences -> Users & Groups -> select Current User and add Heliport to Login Items**.
 > Check below image to setup
 ![setup Heliport](https://i.imgur.com/cqNczip.png)
 
@@ -23,7 +23,7 @@ Following steps:
 2. Setup like following picture
 ![setup Mos](https://i.imgur.com/XXWptNw.png)
 
-P/s: If you have any questions about this repo, please create new issuses.
+P/s: ***If you have any questions about this repo, please create new issuses.***
 
 <!-- Markdown link & img dfn's -->
 [guideline]: https://dortania.github.io/OpenCore-Install-Guide/

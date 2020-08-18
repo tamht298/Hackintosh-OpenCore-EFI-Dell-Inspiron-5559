@@ -13,7 +13,7 @@
 3. Ok & install now
 
 ### Fix some kext:
-* Wifi: download the lastest Heliport release at [OpenIntelWireless's Repo][OpenIntelWireless's Repo]. Install Heliport.dmg and open, then goto **System Preferences -> Users & Groups -> select Current User and add Heliport to Login Items**.
+* Wifi: download the lastest Heliport release at [OpenIntelWireless's Repo][OpenIntelWireless's Repo] & download [itlwm kext][itlwm]. Install Heliport.dmg and open, then goto **System Preferences -> Users & Groups -> select Current User and add Heliport to Login Items**.
 > Check below image to setup
 ![setup Heliport](https://i.imgur.com/cqNczip.png)
 
@@ -29,3 +29,4 @@ P/s: ***If you have any questions about this repo, please create new issuses.***
 [guideline]: https://dortania.github.io/OpenCore-Install-Guide/
 [OpenIntelWireless's Repo]: https://github.com/OpenIntelWireless/HeliPort/releases
 [Mos]: https://mos.caldis.me
+[itlwm]: https://github.com/OpenIntelWireless/itlwm/releases

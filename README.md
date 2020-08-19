@@ -10,7 +10,7 @@
 | Laptop Model   | Dell Inspiron 5559                                              |
 | Processor      | Intel Core i7-6500U @ 3.10GHz dual-core                         |
 | RAM            | 2 X 8GB (SK Hynix DDR3L 1600MHz + Kingston DDR3L 8GB)                                 |
-| STORAGE        | SSD Apacer AS450 2.5 inch 240GB Sata III AP240GAS450B                       |
+| Storage        | SSD Apacer AS450 2.5 inch 240GB Sata III AP240GAS450B                       |
 | Graphics       | Intel HD Graphics 520                                           |
 | Display        | LED HD 1366x768 (15.6 inches)                          |
 | Network Card   | Network Card: Intel Dual Band Wireless-AC 3160 HMC WiFi Adapter |
@@ -34,6 +34,8 @@ Following steps:
 2. Setup like following picture
 ![setup Mos](https://i.imgur.com/XXWptNw.png)
 
+## Not working
+* Amd Radeon R5 M335
 P/s: ***If you have any questions about this repo, please create new issuses.***
 
 <!-- Markdown link & img dfn's -->

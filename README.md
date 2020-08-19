@@ -12,7 +12,7 @@
 | RAM            | 2 X 8GB (SK Hynix DDR3L 1600MHz + Kingston DDR3L 8GB)                                 |
 | STORAGE        | SSD Apacer AS450 2.5 inch 240GB Sata III AP240GAS450B                       |
 | Graphics       | Intel HD Graphics 520                                           |
-| Display        | 15.6 inch HD 1366x768 (15.6 inches)                          |
+| Display        | LED HD 1366x768 (15.6 inches)                          |
 | Network Card   | Network Card: Intel Dual Band Wireless-AC 3160 HMC WiFi Adapter |
 
 * macOS Catatlina 10.15.6

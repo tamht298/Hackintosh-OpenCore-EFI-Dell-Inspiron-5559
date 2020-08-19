@@ -36,6 +36,7 @@ Following steps:
 
 ## Not working
 * Amd Radeon R5 M335
+
 P/s: ***If you have any questions about this repo, please create new issuses.***
 
 <!-- Markdown link & img dfn's -->

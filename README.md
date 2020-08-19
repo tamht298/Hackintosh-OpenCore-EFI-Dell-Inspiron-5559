@@ -9,10 +9,10 @@
 | -------------- | --------------------------------------------------------------- |
 | Laptop Model   | Dell Inspiron 5559                                              |
 | Processor      | Intel Core i7-6500U @ 3.10GHz dual-core                         |
-| RAM            | 2 X 4GB (SK Hynix DDR3 1600MHz)                                 |
-| STORAGE        | Drive Model: TOSHIBA MQ01ABD100 1TB HDD                         |
+| RAM            | 2 X 8GB (SK Hynix DDR3L 1600MHz + Kingston DDR3L 8GB)                                 |
+| STORAGE        | SSD Apacer AS450 2.5 inch 240GB Sata III AP240GAS450B                       |
 | Graphics       | Intel HD Graphics 520                                           |
-| Display        | Chi Mei CMN15CA 1366x768 (15.6 inches)                          |
+| Display        | 15.6 inch HD 1366x768 (15.6 inches)                          |
 | Network Card   | Network Card: Intel Dual Band Wireless-AC 3160 HMC WiFi Adapter |
 
 * macOS Catatlina 10.15.6

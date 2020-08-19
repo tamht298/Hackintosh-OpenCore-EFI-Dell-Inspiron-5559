@@ -2,8 +2,19 @@
 ## Result
 ![Image of installing's result](https://i.imgur.com/j8s5yHN.png)
 
-## System installing:
+## System's Configuration:
 * Laptop Dell Ins 5559
+
+| Specifications | Details                                                         |
+| -------------- | --------------------------------------------------------------- |
+| Laptop Model   | Dell Inspiron 5559                                              |
+| Processor      | Intel Core i7-6500U @ 3.10GHz dual-core                         |
+| RAM            | 2 X 4GB (SK Hynix DDR3 1600MHz)                                 |
+| STORAGE        | Drive Model: TOSHIBA MQ01ABD100 1TB HDD                         |
+| Graphics       | Intel HD Graphics 520                                           |
+| Display        | Chi Mei CMN15CA 1366x768 (15.6 inches)                          |
+| Network Card   | Network Card: Intel Dual Band Wireless-AC 3160 HMC WiFi Adapter |
+
 * macOS Catatlina 10.15.6
 * OpenCore 0.6.0
 
@@ -13,7 +24,7 @@
 3. Ok & install now
 
 ### Fix some kext:
-* Wifi: download the lastest Heliport release at [OpenIntelWireless's Repo][OpenIntelWireless's Repo] & download [itlwm kext][itlwm]. Install Heliport.dmg and open, then goto **System Preferences -> Users & Groups -> select Current User and add Heliport to Login Items**.
+* Wifi: download the lastest Heliport release at [OpenIntelWireless's Repo][OpenIntelWireless's Repo] & download the lastest [itlwm kext][itlwm]. Install Heliport.dmg and open, then goto **System Preferences -> Users & Groups -> select Current User and add Heliport to Login Items**.
 > Check below image to setup
 ![setup Heliport](https://i.imgur.com/cqNczip.png)
 

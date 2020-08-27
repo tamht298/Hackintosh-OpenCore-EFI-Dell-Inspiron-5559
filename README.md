@@ -37,7 +37,7 @@ Following steps:
 ## Not working
 * Amd Radeon R5 M335
 
-P/s: ***If you would like any further information, please don't hesitate to create new issuses.***
+P/s: ***If you would like any further information, please don't hesitate to create new issues.***
 
 <!-- Markdown link & img dfn's -->
 [guideline]: https://dortania.github.io/OpenCore-Install-Guide/

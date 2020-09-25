@@ -24,7 +24,7 @@
 3. Ok & install now
 
 ### Fix some kext:
-* Wifi: download the lastest Heliport release at [OpenIntelWireless's Repo][OpenIntelWireless's Repo] & download the lastest [itlwm kext][itlwm]. Install Heliport.dmg and open, then goto **System Preferences -> Users & Groups -> select Current User and add Heliport to Login Items**.
+* Wifi: download the lastest Heliport release at [OpenIntelWireless's Repo][OpenIntelWireless's Repo] & download the lastest [itlwm kext][itlwm]. Using [Proper Tree] to update config.plist file. Install Heliport.dmg and open, then goto **System Preferences -> Users & Groups -> select Current User and add Heliport to Login Items**.
 > Check below image to setup
 ![setup Heliport](https://i.imgur.com/cqNczip.png)
 
@@ -44,3 +44,4 @@ P/s: ***If you would like any further information, please don't hesitate to crea
 [OpenIntelWireless's Repo]: https://github.com/OpenIntelWireless/HeliPort/releases
 [Mos]: https://mos.caldis.me
 [itlwm]: https://github.com/OpenIntelWireless/itlwm/releases
+[Proper Tree]: https://github.com/corpnewt/ProperTree

@@ -561,7 +561,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -593,7 +593,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -854,11 +854,11 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v debug=0x100 keepsyms=1 -wegnoegpu igfxonln=1</string>
+				<string>debug=0x100 keepsyms=1 -wegnoegpu igfxonln=1</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
-				<data>/wcAAA==</data>
+				<data>ZwgAAA==</data>
 				<key>prev-lang:kbd</key>
 				<string>en-US:0</string>
 			</dict>
@@ -921,7 +921,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02715101J9H9W8JC</string>
+			<string>${TBR_MLB}</string>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
@@ -929,9 +929,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro13,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02TK8Z7GYFH</string>
+			<string>${TBR_SERIALNUMBER}</string>
 			<key>SystemUUID</key>
-			<string>945970F4-EE99-4E3B-8725-F638B2302954</string>
+			<string>${TBR_UUID}</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>

@@ -1,6 +1,7 @@
 # Hackintosh Dell Ins 5559:
+Check the setup guide below to make sure install macOs successfully.
 ## Result
-![Image of installing's result](https://i.imgur.com/j8s5yHN.png)
+![Image of installing's result](https://i.imgur.com/cEBdsWi.png)
 
 ## System's Configuration:
 * Laptop Dell Ins 5559
@@ -19,7 +20,8 @@
 * OpenCore 0.6.0
 
 ## Setup
-1. Following this steps at [guideline][guideline]
+1. Open file config.plist and change the System id with prefix value ${TBR_}, use GenSMBIOS
+2. Snap shot again
 2. Copy folder EFI in this repo and paste in your boot's usb
 3. Ok & install now
 

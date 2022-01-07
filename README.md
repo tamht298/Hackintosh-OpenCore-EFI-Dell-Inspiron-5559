@@ -17,6 +17,7 @@ Check the setup guide below to make sure install macOs successfully.
 | Network Card   | Network Card: Intel Dual Band Wireless-AC 3160 HMC WiFi Adapter |
 
 * macOS Catatlina 10.15.6
+* macOS Bigsur 11.6 (working)
 * OpenCore 0.6.0
 
 ## Setup
